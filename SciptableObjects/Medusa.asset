@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93becebc7b2fb434abe7b68d87180354, type: 3}
+  m_Name: Medusa
+  m_EditorClassIdentifier: 
+  pName: Medusa
+  pLevel: 70
+  pHp: 5450
+  atk: 3000
+  spatk: 3555
+  def: 2300
+  spdef: 8000
+  speed: 7500
+  gender: 1
+  types: 13
+  types2: 6
+  image: {fileID: 21300000, guid: d32b992a31dde204f94ef9771df27862, type: 3}
+  bgImage: {fileID: 0}
